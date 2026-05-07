@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847140726076",
+    "project_id": "canisacademiabd",
+    "storage_bucket": "canisacademiabd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847140726076:android:062f79ffecc8caa895ea39",
+        "android_client_info": {
+          "package_name": "com.example.canisacademia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjMrNTwmhbTkhDlo3ul9juh5qzXmroUg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
